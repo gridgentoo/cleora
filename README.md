@@ -1,6 +1,8 @@
 Как обработать graph data [billion-scale graph data].  
 https://medium.com/responsibleml/how-we-handle-billion-scale-graph-data-and-you-can-too-84da00ffccc8.  
 
+Оригинальный репозиторий.  
+https://github.com/synerise/cleora.  
 
 <p align="center"><img width="50%" src="https://strapi.synerise.com/uploads/Cleora_and_Synerise_logotypes_5cab64ce25.png" /></p>
 
